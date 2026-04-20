@@ -2,7 +2,7 @@
 
 Personal portfolio website for Martin Mamadise, a Computer Engineering graduate (BEng Tech Honours Student) at the Cape Peninsula University of Technology (CPUT), Cape Town. Built to showcase embedded systems, IoT, and software engineering projects.
 
-**Live site:** *(deploy URL here)*
+**Live site:** https://martinmamadise.github.io/martin-portfolio/
 **LinkedIn:** [linkedin.com/in/martinmamadise](https://www.linkedin.com/in/martin-mamadise-5642b6324)
 **GitHub:** [github.com/martinmamadise](https://github.com/martinmamadise)
 
